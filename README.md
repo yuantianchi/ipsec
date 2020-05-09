@@ -1,2 +1,2 @@
 # ipsec
-一键搭建ipsec脚本，支持aws cloudfromation创建ipsec模板创建
+一键搭建ipsecVPN脚本，支持aws cloudfromation模板创建
